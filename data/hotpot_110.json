@@ -1,0 +1,1762 @@
+[
+  {
+    "qid": "5a8b57f25542995d1e6f1371",
+    "difficulty": "hard",
+    "question": "Were Scott Derrickson and Ed Wood of the same nationality?",
+    "gold_answer": "yes",
+    "context": [
+      {
+        "title": "Scott Derrickson",
+        "text": "Scott Derrickson (born July 16, 1966) is an American director, screenwriter and producer."
+      },
+      {
+        "title": "Ed Wood",
+        "text": "Edward Davis Wood Jr. (October 10, 1924 – December 10, 1978) was an American filmmaker, actor, writer, producer, and director."
+      }
+    ]
+  },
+  {
+    "qid": "5a8c7595554299585d9e36b6",
+    "difficulty": "hard",
+    "question": "What government position was held by the woman who portrayed Corliss Archer in the film Kiss and Tell?",
+    "gold_answer": "Chief of Protocol",
+    "context": [
+      {
+        "title": "Kiss and Tell (1945 film)",
+        "text": "Kiss and Tell is a 1945 American comedy film starring then 17-year-old Shirley Temple as Corliss Archer."
+      },
+      {
+        "title": "Shirley Temple",
+        "text": "Shirley Temple Black (April 23, 1928 – February 10, 2014) was an American actress, singer, dancer, businesswoman, and diplomat who was Hollywood's number one box-office draw as a child actress from 1935 to 1938. As an adult, she was named United States ambassador to Ghana and to Czechoslovakia and also served as Chief of Protocol of the United States."
+      }
+    ]
+  },
+  {
+    "qid": "5a85ea095542994775f606a8",
+    "difficulty": "hard",
+    "question": "What science fantasy young adult series, told in first person, has a set of companion books narrating the stories of enslaved worlds and alien species?",
+    "gold_answer": "Animorphs",
+    "context": [
+      {
+        "title": "The Hork-Bajir Chronicles",
+        "text": "The Hork-Bajir Chronicles is the second companion book to the \"Animorphs\" series, written by K. A. Applegate. With respect to continuity within the series, it takes place before book #23, \"The Pretender\", although the events told in the story occur between the time of \"The Ellimist Chronicles\" and \"The Andalite Chronicles\". The book is introduced by Tobias, who flies to the valley of the free Hork-Bajir, where Jara Hamee tells him the story of how the Yeerks enslaved the Hork-Bajir, and how Aldrea, an Andalite, and her companion, Dak Hamee, a Hork-Bajir, tried to save their world from the invasion."
+      },
+      {
+        "title": "Animorphs",
+        "text": "Animorphs is a science fantasy series of young adult books written by Katherine Applegate and her husband Michael Grant, writing together under the name K. A. Applegate, and published by Scholastic. It is told in first person, with all six main characters taking turns narrating the books through their own perspectives."
+      }
+    ]
+  },
+  {
+    "qid": "5adbf0a255429947ff17385a",
+    "difficulty": "hard",
+    "question": "Are the Laleli Mosque and Esma Sultan Mansion located in the same neighborhood?",
+    "gold_answer": "no",
+    "context": [
+      {
+        "title": "Laleli Mosque",
+        "text": "The Laleli Mosque (Turkish: \"Laleli Camii, or Tulip Mosque\" ) is an 18th-century Ottoman imperial mosque located in Laleli, Fatih, Istanbul, Turkey."
+      },
+      {
+        "title": "Esma Sultan Mansion",
+        "text": "The Esma Sultan Mansion (Turkish: \"Esma Sultan Yalısı\" ), a historical yalı (English: waterside mansion ) located at Bosphorus in Ortaköy neighborhood of Istanbul, Turkey and named after its original owner Esma Sultan, is used today as a cultural center after being redeveloped."
+      }
+    ]
+  },
+  {
+    "qid": "5a8e3ea95542995a26add48d",
+    "difficulty": "hard",
+    "question": "The director of the romantic comedy \"Big Stone Gap\" is based in what New York city?",
+    "gold_answer": "Greenwich Village, New York City",
+    "context": [
+      {
+        "title": "Big Stone Gap (film)",
+        "text": "Big Stone Gap is a 2014 American drama romantic comedy film written and directed by Adriana Trigiani and produced by Donna Gigliotti for Altar Identity Studios, a subsidiary of Media Society."
+      },
+      {
+        "title": "Adriana Trigiani",
+        "text": "Adriana Trigiani is an Italian American best-selling author of sixteen books, television writer, film director, and entrepreneur based in Greenwich Village, New York City."
+      }
+    ]
+  },
+  {
+    "qid": "5abd94525542992ac4f382d2",
+    "difficulty": "hard",
+    "question": "2014 S/S is the debut album of a South Korean boy group that was formed by who?",
+    "gold_answer": "YG Entertainment",
+    "context": [
+      {
+        "title": "2014 S/S",
+        "text": "2014 S/S is the debut album of South Korean group WINNER."
+      },
+      {
+        "title": "Winner (band)",
+        "text": "Winner (Hangul: 위너), often stylized as WINNER, is a South Korean boy group formed in 2013 by YG Entertainment and debuted in 2014."
+      }
+    ]
+  },
+  {
+    "qid": "5a85b2d95542997b5ce40028",
+    "difficulty": "hard",
+    "question": "Who was known by his stage name Aladin and helped organizations improve their performance as a consultant?",
+    "gold_answer": "Eenasul Fateh",
+    "context": [
+      {
+        "title": "Eenasul Fateh",
+        "text": "Eenasul Fateh (Bengali: ঈনাসুল ফাতেহ ; born 3 April 1959), also known by his stage name Aladin, is a Bangladeshi-British cultural practitioner, magician, live artist and former international management consultant."
+      },
+      {
+        "title": "Management consulting",
+        "text": "Management consulting is the practice of helping organizations to improve their performance, operating primarily through the analysis of existing organizational problems and the development of plans for improvement."
+      }
+    ]
+  },
+  {
+    "qid": "5a87ab905542996e4f3088c1",
+    "difficulty": "hard",
+    "question": "The arena where the Lewiston Maineiacs played their home games can seat how many people?",
+    "gold_answer": "3,677 seated",
+    "context": [
+      {
+        "title": "Lewiston Maineiacs",
+        "text": "The team played its home games at the Androscoggin Bank Colisée."
+      },
+      {
+        "title": "Androscoggin Bank Colisée",
+        "text": "The Androscoggin Bank Colisée (formerly Central Maine Civic Center and Lewiston Colisee) is a 4,000 capacity (3,677 seated) multi-purpose arena, in Lewiston, Maine, that opened in 1958."
+      }
+    ]
+  },
+  {
+    "qid": "5a7bbb64554299042af8f7cc",
+    "difficulty": "hard",
+    "question": "Who is older, Annie Morton or Terry Richardson?",
+    "gold_answer": "Terry Richardson",
+    "context": [
+      {
+        "title": "Annie Morton",
+        "text": "Annie Morton (born October 8, 1970) is an American model born in Pennsylvania. She has been photographed by Helmut Newton; Peter Lindbergh; Annie Leibovitz; Richard Avedon; Juergen Teller; Paul Jasmin, Mary Ellen Mark and Terry Richardson, and modeled for Donna Karan, Givenchy, Guerlain, Chanel, \"Harper's Bazaar\", \"Sports Illustrated\" and Victoria's Secret."
+      },
+      {
+        "title": "Terry Richardson",
+        "text": "Terrence \"Uncle Terry\" Richardson (born August 14, 1965) is an American fashion and portrait photographer who has shot advertising campaigns for Marc Jacobs, Aldo, Supreme, Sisley, Tom Ford, and Yves Saint Laurent among others."
+      }
+    ]
+  },
+  {
+    "qid": "5a8db19d5542994ba4e3dd00",
+    "difficulty": "hard",
+    "question": "Are Local H and For Against both from the United States?",
+    "gold_answer": "yes",
+    "context": [
+      {
+        "title": "Local H",
+        "text": "Local H is an American rock band originally formed by guitarist and vocalist Scott Lucas, bassist Matt Garcia, drummer Joe Daniels, and lead guitarist John Sparkman in Zion, Illinois in 1987."
+      },
+      {
+        "title": "For Against",
+        "text": "For Against is a United States post-punk/dream pop band from Lincoln, Nebraska."
+      }
+    ]
+  },
+  {
+    "qid": "5a7166395542994082a3e814",
+    "difficulty": "hard",
+    "question": "What is the name of the fight song of the university whose main campus is in Lawrence, Kansas and whose branch campuses are in the Kansas City metropolitan area?",
+    "gold_answer": "Kansas Song",
+    "context": [
+      {
+        "title": "Kansas Song",
+        "text": "Kansas Song (We’re From Kansas) is a fight song of the University of Kansas."
+      },
+      {
+        "title": "University of Kansas",
+        "text": "The main campus in Lawrence, one of the largest college towns in Kansas, is on Mount Oread, the highest elevation in Lawrence. Two branch campuses are in the Kansas City metropolitan area: the Edwards Campus in Overland Park, and the university's medical school and hospital in Kansas City."
+      }
+    ]
+  },
+  {
+    "qid": "5a877e5d5542993e715abf7d",
+    "difficulty": "hard",
+    "question": "What screenwriter with credits for \"Evolution\" co-wrote a film starring Nicolas Cage and Téa Leoni?",
+    "gold_answer": "David Weissman",
+    "context": [
+      {
+        "title": "David Weissman",
+        "text": "David Weissman is a screenwriter and director. His film credits include \"The Family Man\" (2000), \"Evolution\" (2001), and \"\"When in Rome\"\" (2010)."
+      },
+      {
+        "title": "The Family Man",
+        "text": "The Family Man is a 2000 American romantic comedy-drama film directed by Brett Ratner, written by David Diamond and David Weissman, and starring Nicolas Cage and Téa Leoni."
+      }
+    ]
+  },
+  {
+    "qid": "5ab3b0bf5542992ade7c6e39",
+    "difficulty": "hard",
+    "question": "What year did Guns N Roses perform a promo for a movie starring Arnold Schwarzenegger as a former New York Police detective?",
+    "gold_answer": "1999",
+    "context": [
+      {
+        "title": "Oh My God (Guns N' Roses song)",
+        "text": "\"Oh My God\" is a song by Guns N' Roses released in 1999 on the soundtrack to the film \"End of Days\". The song was sent out to radio stations in November 1999 as a promo for the soundtrack and the band."
+      },
+      {
+        "title": "End of Days (film)",
+        "text": "The film follows former New York Police Department detective Jericho Cane (Schwarzenegger) after he saves a banker (Byrne) from an assassin, finds himself embroiled in a religious conflict, and must protect an innocent young woman (Tunney) who is chosen by evil forces to conceive the Antichrist with Satan."
+      }
+    ]
+  },
+  {
+    "qid": "5ab56e32554299637185c594",
+    "difficulty": "hard",
+    "question": "Are Random House Tower and 888 7th Avenue both used for real estate?",
+    "gold_answer": "no",
+    "context": [
+      {
+        "title": "Random House Tower",
+        "text": "The Random House Tower, also known as the Park Imperial Apartments, is a 52-story mixed-use tower in New York City, United States, that is used as the headquarters of book publisher Random House and a luxury apartment complex."
+      },
+      {
+        "title": "888 7th Avenue",
+        "text": "It currently carries the Vornado Realty Trust corporate headquarters."
+      }
+    ]
+  },
+  {
+    "qid": "5ab6d09255429954757d337d",
+    "difficulty": "hard",
+    "question": "The football manager who recruited David Beckham managed Manchester United during what timeframe?",
+    "gold_answer": "from 1986 to 2013",
+    "context": [
+      {
+        "title": "1995–96 Manchester United F.C. season",
+        "text": "Their triumph was made all the more remarkable by the fact that Alex Ferguson had sold experienced players Paul Ince, Mark Hughes and Andrei Kanchelskis before the start of the season, and not made any major signings. Instead, he had drafted in young players like Nicky Butt, David Beckham, Paul Scholes and the Neville brothers, Gary and Phil."
+      },
+      {
+        "title": "Alex Ferguson",
+        "text": "Sir Alexander Chapman Ferguson, CBE (born 31 December 1941) is a Scottish former football manager and player who managed Manchester United from 1986 to 2013."
+      }
+    ]
+  },
+  {
+    "qid": "5a75e05c55429976ec32bc5f",
+    "difficulty": "hard",
+    "question": "Brown State Fishing Lake is in a country that has a population of how many inhabitants ?",
+    "gold_answer": "9,984",
+    "context": [
+      {
+        "title": "Brown State Fishing Lake",
+        "text": "Brown State Fishing Lake (sometimes also known as Brown State Fishing Lake And Wildlife Area) is a protected area in Brown County, Kansas in the United States."
+      },
+      {
+        "title": "Brown County, Kansas",
+        "text": "As of the 2010 census, the county population was 9,984."
+      }
+    ]
+  },
+  {
+    "qid": "5ab3e45655429976abd1bcd4",
+    "difficulty": "hard",
+    "question": "The Vermont Catamounts men's soccer team currently competes in a conference that was formerly known as what from 1988 to 1996?",
+    "gold_answer": "the North Atlantic Conference",
+    "context": [
+      {
+        "title": "Vermont Catamounts men's soccer",
+        "text": "The Vermont Catamounts men's soccer team represents the University of Vermont in all NCAA Division I men's college soccer competitions. The team competes in the America East Conference."
+      },
+      {
+        "title": "America East Conference",
+        "text": "The conference was known as the Eastern College Athletic Conference-North from 1979 to 1988 and the North Atlantic Conference from 1988 to 1996."
+      }
+    ]
+  },
+  {
+    "qid": "5ab29c24554299449642c932",
+    "difficulty": "hard",
+    "question": "Are Giuseppe Verdi and Ambroise Thomas both Opera composers ?",
+    "gold_answer": "yes",
+    "context": [
+      {
+        "title": "Giuseppe Verdi",
+        "text": "Giuseppe Fortunino Francesco Verdi (] ; 9 or 10 October 1813 – 27 January 1901) was an Italian opera composer."
+      },
+      {
+        "title": "Ambroise Thomas",
+        "text": "Charles Louis Ambroise Thomas (5 August 1811 – 12 February 1896) was a French composer, best known for his operas \"Mignon\" (1866) and \"Hamlet\" (1868, after Shakespeare) and as Director of the Conservatoire de Paris from 1871 till his death."
+      }
+    ]
+  },
+  {
+    "qid": "5ae0d4c9554299603e418468",
+    "difficulty": "hard",
+    "question": "Roger O. Egeberg was Assistant Secretary for Health and Scientific Affairs during the administration of a president that served during what years?",
+    "gold_answer": "1969 until 1974",
+    "context": [
+      {
+        "title": "Roger O. Egeberg",
+        "text": "His other roles included Assistant Secretary for Health and Scientific Affairs in the Department of Health, Education, and Welfare (now the United States Department of Health and Human Services) during the Nixon administration and Dean of the University of Southern California's medical school."
+      },
+      {
+        "title": "Richard Nixon",
+        "text": "Richard Milhous Nixon (January 9, 1913 – April 22, 1994) was the 37th President of the United States from 1969 until 1974, when he resigned from office, the only U.S. president to do so."
+      }
+    ]
+  },
+  {
+    "qid": "5a8133725542995ce29dcbdb",
+    "difficulty": "hard",
+    "question": "Which writer was from England, Henry Roth or Robert Erskine Childers?",
+    "gold_answer": "Robert Erskine Childers DSC",
+    "context": [
+      {
+        "title": "Henry Roth",
+        "text": "Henry Roth (February 8, 1906 – October 13, 1995) was an American novelist and short story writer."
+      },
+      {
+        "title": "Robert Erskine Childers",
+        "text": "Robert Erskine Childers DSC (25 June 1870 – 24 November 1922), universally known as Erskine Childers, was a British writer, whose works included the influential novel \"The Riddle of the Sands\", and a Fenian revolutionary who smuggled guns to Ireland in his sailing yacht \"Asgard\"."
+      }
+    ]
+  },
+  {
+    "qid": "5ae7a8175542993210983ed8",
+    "difficulty": "hard",
+    "question": "Which other Mexican Formula One race car driver has held the podium besides the Force India driver born in 1990?",
+    "gold_answer": "Pedro Rodríguez",
+    "context": [
+      {
+        "title": "Formula One drivers from Mexico",
+        "text": "Pedro Rodríguez is the most successful Mexican driver being the only one to have won a grand prix. Sergio Pérez, the only other Mexican to finish on the podium, currently races with Sahara Force India F1 Team ."
+      },
+      {
+        "title": "Sergio Pérez",
+        "text": "Sergio Pérez Mendoza (    ; born 26 January 1990) also known as \"Checo\" Pérez, is a Mexican racing driver, currently driving for Force India."
+      }
+    ]
+  },
+  {
+    "qid": "5ae6050f55429929b0807a5e",
+    "difficulty": "hard",
+    "question": "This singer of A Rather Blustery Day also voiced what hedgehog?",
+    "gold_answer": "Sonic",
+    "context": [
+      {
+        "title": "A Rather Blustery Day",
+        "text": "It was written by Robert & Richard Sherman and sung by Jim Cummings as \"Pooh\"."
+      },
+      {
+        "title": "Jim Cummings",
+        "text": "He is known for voicing the title character from \"Darkwing Duck\", Dr. Robotnik from \"Sonic the Hedgehog\", and Pete."
+      }
+    ]
+  },
+  {
+    "qid": "5adddccd5542997dc7907069",
+    "difficulty": "hard",
+    "question": "Aside from the Apple Remote, what other device can control the program Apple Remote was originally designed to interact with?",
+    "gold_answer": "keyboard function keys",
+    "context": [
+      {
+        "title": "Apple Remote",
+        "text": "The Apple Remote is a remote control device released in or after October 2005 by Apple Inc. for use with a number of its products which use infrared capabilities. The device was originally designed to interact with the Front Row media program on the iSight iMac G5 and is compatible with some later desktop and portable Macintosh computers."
+      },
+      {
+        "title": "Front Row (software)",
+        "text": "Front Row is a discontinued media center software application for Apple's Macintosh computers and Apple TV for navigating and viewing video, photos, podcasts, and music from a computer, optical disc, or the Internet through a 10-foot user interface (similar to Windows Media Center and Kodi). The software relies on iTunes and iPhoto and is controlled by an Apple Remote or the keyboard function keys."
+      }
+    ]
+  },
+  {
+    "qid": "5ae2070a5542994d89d5b313",
+    "difficulty": "hard",
+    "question": "Which performance act has a higher instrument to person ratio, Badly Drawn Boy or Wolf Alice?",
+    "gold_answer": "Badly Drawn Boy",
+    "context": [
+      {
+        "title": "Badly Drawn Boy",
+        "text": "Damon Michael Gough (born 2 October 1969, in Dunstable, Bedfordshire), known by the stage name Badly Drawn Boy, is an English indie singer-songwriter and multi-instrumentalist."
+      },
+      {
+        "title": "Wolf Alice",
+        "text": "Its members since 2012 are Ellie Rowsell (vocals, guitar), Joff Oddie (guitars, vocals), Theo Ellis (bass), and Joel Amey (drums, vocals)."
+      }
+    ]
+  },
+  {
+    "qid": "5ae22b8d554299234fd0440f",
+    "difficulty": "hard",
+    "question": "What was the father of Kasper Schmeichel voted to be by the IFFHS in 1992?",
+    "gold_answer": "World's Best Goalkeeper",
+    "context": [
+      {
+        "title": "Kasper Schmeichel",
+        "text": "Kasper Peter Schmeichel (] ; born 5 November 1986) is a Danish professional footballer who plays as a goalkeeper for Premier League club Leicester City and the Denmark national team. He is the son of former Manchester United and Danish international goalkeeper Peter Schmeichel."
+      },
+      {
+        "title": "Peter Schmeichel",
+        "text": "Peter Bolesław Schmeichel MBE (] ; born 18 November 1963) is a Danish former professional footballer who played as a goalkeeper, and was voted the IFFHS World's Best Goalkeeper in 1992 and 1993."
+      }
+    ]
+  },
+  {
+    "qid": "5a722b8655429971e9dc9329",
+    "difficulty": "hard",
+    "question": "Who was the writer of These Boots Are Made for Walkin' and who died in 2007?",
+    "gold_answer": "Barton Lee Hazlewood",
+    "context": [
+      {
+        "title": "These Boots Are Made for Walkin'",
+        "text": "\"These Boots Are Made for Walkin' is a hit song written by Lee Hazlewood and recorded by Nancy Sinatra."
+      },
+      {
+        "title": "Lee Hazlewood",
+        "text": "Barton Lee Hazlewood (July 9, 1929 – August 4, 2007) was an American country and pop singer, songwriter, and record producer, most widely known for his work with guitarist Duane Eddy during the late 1950s and singer Nancy Sinatra in the 1960s."
+      }
+    ]
+  },
+  {
+    "qid": "5adf37a95542995ec70e8f97",
+    "difficulty": "hard",
+    "question": "The 2011–12 VCU Rams men's basketball team, led by third year head coach Shaka Smart, represented Virginia Commonwealth University which was founded in what year?",
+    "gold_answer": "1838",
+    "context": [
+      {
+        "title": "2011–12 VCU Rams men's basketball team",
+        "text": "Led by third-year head coach Shaka Smart, the Rams were coming off a season marked by a run to the Final Four."
+      },
+      {
+        "title": "Virginia Commonwealth University",
+        "text": "VCU was founded in 1838 as the medical department of Hampden–Sydney College, becoming the Medical College of Virginia in 1854."
+      }
+    ]
+  },
+  {
+    "qid": "5abd259d55429924427fcf1a",
+    "difficulty": "hard",
+    "question": "Are both Dictyosperma, and Huernia described as a genus?",
+    "gold_answer": "yes",
+    "context": [
+      {
+        "title": "Dictyosperma",
+        "text": "Dictyosperma is a monotypic genus of flowering plant in the palm family found in the Mascarene Islands in the Indian Ocean (Mauritius, Réunion and Rodrigues)."
+      },
+      {
+        "title": "Huernia",
+        "text": "The genus Huernia (family Apocynaceae, subfamily Asclepiadoideae) consists of stem succulents from Eastern and Southern Africa, first described as a genus in 1810."
+      }
+    ]
+  },
+  {
+    "qid": "5a828c8355429966c78a6a50",
+    "difficulty": "hard",
+    "question": "Kaiser Ventures corporation was founded by an American industrialist who became known as the father of modern American shipbuilding?",
+    "gold_answer": "Henry J. Kaiser",
+    "context": [
+      {
+        "title": "Kaiser Ventures",
+        "text": "Kaiser Ventures (formerly Kaiser Steel) corporation, headquartered in Ontario, California. It was founded by Henry J. Kaiser to provide steel plate for the Pacific Coast shipbuilding industry, which expanded during World War II, then shrank, then expanded again during the Korean War."
+      },
+      {
+        "title": "Henry J. Kaiser",
+        "text": "Henry John Kaiser (May 9, 1882 – August 24, 1967) was an American industrialist who became known as the father of modern American shipbuilding."
+      }
+    ]
+  },
+  {
+    "qid": "5a8a3e745542996c9b8d5e70",
+    "difficulty": "hard",
+    "question": "What is the name for the adventure in \"Tunnels and Trolls\", a game designed by Ken St. Andre?",
+    "gold_answer": "Arena of Khazan",
+    "context": [
+      {
+        "title": "Arena of Khazan",
+        "text": "Arena of Khazan is a 1979 role-playing game adventure for \"Tunnels & Trolls\" published by Flying Buffalo."
+      },
+      {
+        "title": "Tunnels &amp; Trolls",
+        "text": "Tunnels & Trolls (abbreviated \"T&T\") is a fantasy role-playing game designed by Ken St. Andre and first published in 1975 by Flying Buffalo."
+      }
+    ]
+  },
+  {
+    "qid": "5ac23ff0554299636651994d",
+    "difficulty": "hard",
+    "question": "When was Poison's album \"Shut Up, Make Love\" released?",
+    "gold_answer": "2000",
+    "context": [
+      {
+        "title": "Shut Up, Make Love",
+        "text": "\"Shut Up, Make Love\" is a song by American rock band Poison; released in 2000, it was the first single presented to radio stations from their 2000 \"Crack a Smile...and More!"
+      },
+      {
+        "title": "Poison (American band)",
+        "text": "Poison is an American rock band that achieved great commercial success in the mid-1980s to the mid-1990s."
+      }
+    ]
+  },
+  {
+    "qid": "5ae4a3265542995ad6573de5",
+    "difficulty": "hard",
+    "question": "Hayden is a singer-songwriter from Canada, but where does Buck-Tick hail from?",
+    "gold_answer": "Fujioka, Gunma",
+    "context": [
+      {
+        "title": "Hayden (musician)",
+        "text": "Paul Hayden Desser (born February 12, 1971) who records as Hayden, is a Canadian singer-songwriter from Thornhill, Ontario."
+      },
+      {
+        "title": "Buck-Tick",
+        "text": "Buck-Tick (stylized as BUCK-TICK) is a Japanese rock band, formed in Fujioka, Gunma in 1983."
+      }
+    ]
+  },
+  {
+    "qid": "5ae0361155429925eb1afc2c",
+    "difficulty": "hard",
+    "question": "Which  French ace pilot and adventurer fly L'Oiseau Blanc",
+    "gold_answer": "Charles Eugène",
+    "context": [
+      {
+        "title": "L'Oiseau Blanc",
+        "text": "The aircraft was flown by French World War I aviation heroes, Charles Nungesser and François Coli."
+      },
+      {
+        "title": "Charles Nungesser",
+        "text": "Charles Eugène Jules Marie Nungesser, MC (15 March 1892 – presumably on or after 8 May 1927) was a French ace pilot and adventurer, best remembered as a rival of Charles Lindbergh."
+      }
+    ]
+  },
+  {
+    "qid": "5abc0a5d5542993f40c73c64",
+    "difficulty": "hard",
+    "question": "Are Freakonomics and In the Realm of the Hackers both American documentaries?",
+    "gold_answer": "no",
+    "context": [
+      {
+        "title": "Freakonomics (film)",
+        "text": "Freakonomics: The Movie is a 2010 American documentary film based on the 2005 book \"Freakonomics: A Rogue Economist Explores the Hidden Side of Everything\" by economist Steven D. Levitt and writer Stephen J. Dubner."
+      },
+      {
+        "title": "In the Realm of the Hackers",
+        "text": "In The Realm of the Hackers is a 2003 Australian documentary directed by Kevin Anderson about the prominent hacker community, centered in Melbourne, Australia in the late 1980s until early 1990."
+      }
+    ]
+  },
+  {
+    "qid": "5a7cc50e554299452d57ba3e",
+    "difficulty": "hard",
+    "question": "Which band, Letters to Cleo or Screaming Trees, had more members?",
+    "gold_answer": "Letters to Cleo",
+    "context": [
+      {
+        "title": "Letters to Cleo",
+        "text": "Letters to Cleo are an alternative rock band from Boston, Massachusetts, best known for the 1994 single, \"Here & Now\", from their full-length debut album, \"Aurora Gory Alice\". The band's members are Kay Hanley, Greg McKenna, Michael Eisenstein, Stacy Jones, Scott Riebling, and later, Tom Polce."
+      },
+      {
+        "title": "Screaming Trees",
+        "text": "Screaming Trees was an American rock band formed in Ellensburg, Washington in 1985 by vocalist Mark Lanegan, guitarist Gary Lee Conner, bass player Van Conner and drummer Mark Pickerel. Pickerel had been replaced by Barrett Martin by the time the band reached its most successful period."
+      }
+    ]
+  },
+  {
+    "qid": "5abf63f15542997ec76fd3ea",
+    "difficulty": "hard",
+    "question": "Alexander Kerensky was defeated and destroyed by the Bolsheviks in the course of a civil war that ended when ?",
+    "gold_answer": "October 1922",
+    "context": [
+      {
+        "title": "Socialist Revolutionary Party",
+        "text": "The anti-Bolshevik faction of this party, known as the Right SRs, which remained loyal to the Provisional Government leader Alexander Kerensky was defeated and destroyed by the Bolsheviks in the course of the Russian Civil War and subsequent persecution."
+      },
+      {
+        "title": "Russian Civil War",
+        "text": "The Russian Civil War (Russian: Гражда́нская война́ в Росси́и , \"Grazhdanskaya voyna v Rossiyi\" ; November 1917 – October 1922) was a multi-party war in the former Russian Empire immediately after the Russian Revolutions of 1917, as many factions vied to determine Russia's political future."
+      }
+    ]
+  },
+  {
+    "qid": "5a8ef2a75542995a26add583",
+    "difficulty": "hard",
+    "question": "Seven Brief Lessons on Physics was written by an Italian physicist that has worked in France since what year?",
+    "gold_answer": "2000",
+    "context": [
+      {
+        "title": "Seven Brief Lessons on Physics",
+        "text": "Seven Brief Lessons on Physics (Italian: \"\" ) is a short book by the Italian physicist Carlo Rovelli."
+      },
+      {
+        "title": "Carlo Rovelli",
+        "text": "Carlo Rovelli (born 3 May 1956) is an Italian theoretical physicist and writer who has worked in Italy, the United States and since 2000, in France."
+      }
+    ]
+  },
+  {
+    "qid": "5a80721b554299485f5985ef",
+    "difficulty": "hard",
+    "question": "The Livesey Hal War Memorial commemorates the fallen of which war, that had over 60 million casualties?",
+    "gold_answer": "World War II",
+    "context": [
+      {
+        "title": "Livesey Hall War Memorial",
+        "text": "The Livesey Hall War Memorial commemorates the fallen of World War I and World War II who had been employed by the South Suburban Gas Company of London."
+      },
+      {
+        "title": "World War II casualties",
+        "text": "Over 60 million people were killed, which was about 3% of the 1940 world population (est. 2.3 billion)."
+      }
+    ]
+  },
+  {
+    "qid": "5ab51dae5542991779162d82",
+    "difficulty": "hard",
+    "question": "Are both Elko Regional Airport and Gerald R. Ford International Airport located in Michigan?",
+    "gold_answer": "no",
+    "context": [
+      {
+        "title": "Elko Regional Airport",
+        "text": "Elko Regional Airport (IATA: EKO, ICAO: KEKO, FAA LID: EKO) , formerly Elko Municipal Airport, is a mile west of downtown Elko, in Elko County, Nevada."
+      },
+      {
+        "title": "Gerald R. Ford International Airport",
+        "text": "Gerald R. Ford International Airport (IATA: GRR, ICAO: KGRR, FAA LID: GRR) is a commercial airport in Cascade Township approximately 13 mi southeast of Grand Rapids, Michigan."
+      }
+    ]
+  },
+  {
+    "qid": "5a7571135542992d0ec05f98",
+    "difficulty": "hard",
+    "question": "Ralph Hefferline was a psychology professor at a university that is located in what city?",
+    "gold_answer": "New York City",
+    "context": [
+      {
+        "title": "Ralph Hefferline",
+        "text": "Ralph Franklin Hefferline (15 February 1910 in Muncie, Indiana – 16 March 1974) was a psychology professor at Columbia University."
+      },
+      {
+        "title": "Columbia University",
+        "text": "Columbia University (Columbia; officially Columbia University in the City of New York), established in 1754, is a private Ivy League research university in Upper Manhattan, New York City, often cited as one of the world's most prestigious universities."
+      }
+    ]
+  },
+  {
+    "qid": "5a7a0e1e5542990783324e1a",
+    "difficulty": "hard",
+    "question": "Which dog's ancestors include Gordon and Irish Setters: the Manchester Terrier or the Scotch Collie?",
+    "gold_answer": "Scotch Collie",
+    "context": [
+      {
+        "title": "Manchester Terrier",
+        "text": "The Manchester Terrier is a breed of dog of the smooth-haired terrier type."
+      },
+      {
+        "title": "Scotch Collie",
+        "text": "The Scotch Collie is a landrace breed of dog which originated from the highland regions of Scotland. Other ancestors include the Gordon and Irish Setters."
+      }
+    ]
+  },
+  {
+    "qid": "5a74106b55429979e288289e",
+    "difficulty": "hard",
+    "question": "Where is the company that Sachin Warrier worked for as a software engineer headquartered?",
+    "gold_answer": "Mumbai",
+    "context": [
+      {
+        "title": "Sachin Warrier",
+        "text": "He was working as a software engineer in Tata Consultancy Services in Kochi."
+      },
+      {
+        "title": "Tata Consultancy Services",
+        "text": "Tata Consultancy Services Limited (TCS) is an Indian multinational information technology (IT) service, consulting and business solutions company Headquartered in Mumbai, Maharashtra."
+      }
+    ]
+  },
+  {
+    "qid": "5a79311755429970f5fffe67",
+    "difficulty": "hard",
+    "question": "A Japanese manga series based on a 16 year old high school student Ichitaka Seto, is written and illustrated by someone born in what year?",
+    "gold_answer": "1962",
+    "context": [
+      {
+        "title": "Masakazu Katsura",
+        "text": "Masakazu Katsura (桂 正和 , Katsura Masakazu , born December 10, 1962) is a Japanese manga artist, known for several works of manga, including \"Wing-man\", \"Shadow Lady\", \"DNA²\", \"Video Girl Ai\", \"I\"s\", and \"Zetman\"."
+      },
+      {
+        "title": "I&quot;s",
+        "text": "The story's main character is 16-year-old high school student Ichitaka Seto who is in love with his classmate Iori Yoshizuki, but too shy to tell her."
+      }
+    ]
+  },
+  {
+    "qid": "5ab2d3df554299194fa9352c",
+    "difficulty": "hard",
+    "question": "The battle in which Giuseppe Arimondi lost his life secured what for Ethiopia?",
+    "gold_answer": "sovereignty",
+    "context": [
+      {
+        "title": "Giuseppe Arimondi",
+        "text": "After a long and successfull colonial service, he died in combat at Adwa, and was posthumously awarded the Gold Medal of Military Valor."
+      },
+      {
+        "title": "Battle of Adwa",
+        "text": "This climactic battle of the First Italo-Ethiopian War, was a decisive defeat for Italy and secured Ethiopian sovereignty."
+      }
+    ]
+  },
+  {
+    "qid": "5a760ab65542994ccc918697",
+    "difficulty": "hard",
+    "question": "Alfred Balk served as the secretary of the Committee on the Employment of Minority Groups in the News Media under which United States Vice President?",
+    "gold_answer": "Nelson Rockefeller",
+    "context": [
+      {
+        "title": "Alfred Balk",
+        "text": "Alfred Balk (July 24, 1930 – November 25, 2010) was an American reporter, nonfiction author and magazine editor who wrote groundbreaking articles about housing segregation, the Nation of Islam, the environment and Illinois politics. During a career-long emphasis on media improvement, he served on the Twentieth Century Fund's task force that established a National News Council, consulted for several foundations, served as secretary of New York Governor Nelson Rockefeller's Committee on the Employment of Minority Groups in the News Media, and produced a film, \"That the People Shall Know: The Challenge of Journalism\", narrated by Walter Cronkite."
+      },
+      {
+        "title": "Nelson Rockefeller",
+        "text": "Nelson Aldrich Rockefeller (July 8, 1908 – January 26, 1979) was an American businessman and politician."
+      }
+    ]
+  },
+  {
+    "qid": "5a7d54165542995f4f402256",
+    "difficulty": "hard",
+    "question": "A medieval fortress in Dirleton, East Lothian, Scotland borders on the south side of what coastal area?",
+    "gold_answer": "Yellowcraig",
+    "context": [
+      {
+        "title": "Yellowcraigs",
+        "text": "Yellowcraig, less commonly known as Broad Sands Bay, is a coastal area of forest, beach and grassland in East Lothian, south-east Scotland. Yellowcraig is partly within the Firth of Forth Site of Special Scientific Interest (SSSI). It is bordered to the north by the Firth of Forth, to the south by the village of Dirleton and Dirleton Castle, to the east by the North Berwick West Links golf course, and to the west by the Archerfield Estate and Links golf courses."
+      },
+      {
+        "title": "Dirleton Castle",
+        "text": "Dirleton Castle is a medieval fortress in the village of Dirleton, East Lothian, Scotland."
+      }
+    ]
+  },
+  {
+    "qid": "5ab859a955429934fafe6d7b",
+    "difficulty": "hard",
+    "question": "Who is the writer of this song that was inspired by words on a tombstone and was the first track on the box set Back to Mono?",
+    "gold_answer": "Phil Spector",
+    "context": [
+      {
+        "title": "Back to Mono (1958–1969)",
+        "text": "Back to Mono (1958–1969) is a box set (4 compact discs or 5 vinyl LPs) compilation of the recorded work of record producer Phil Spector, through the 1960s, released in 1991 by ABKCO as #7118-2. The first track, \"To Know Him Is to Love Him,\" released in 1958, features Spector performing as part of the group the Teddy Bears."
+      },
+      {
+        "title": "To Know Him Is to Love Him",
+        "text": "\"To Know Him Is to Love Him\" is a song written by Phil Spector, inspired by words on his father's tombstone, \"To Know Him Was To Love Him.\""
+      }
+    ]
+  },
+  {
+    "qid": "5add61d65542995b365fab21",
+    "difficulty": "hard",
+    "question": "What type of forum did a former Soviet statesman initiate?",
+    "gold_answer": "Organizations could come together to address global issues",
+    "context": [
+      {
+        "title": "World Summit of Nobel Peace Laureates",
+        "text": "The World Summit of Nobel Peace Laureates was initiated by Mikhail Gorbachev in the 90s, as a forum in which the Nobel Peace Laureates and the Peace Laureate Organizations could come together to address global issues with a view to encourage and support peace and human well being in the world."
+      },
+      {
+        "title": "Mikhail Gorbachev",
+        "text": "Mikhail Sergeyevich Gorbachev, ( ; Russian: Михаи́л Серге́евич Горбачёв ; ] ; born 2 March 1931) is a former Soviet statesman."
+      }
+    ]
+  },
+  {
+    "qid": "5a8e068b5542995085b37384",
+    "difficulty": "hard",
+    "question": "Are Ferocactus and Silene both types of plant?",
+    "gold_answer": "yes",
+    "context": [
+      {
+        "title": "Ferocactus",
+        "text": "Ferocactus is a genus of large barrel-shaped cacti, mostly with large spines and small flowers."
+      },
+      {
+        "title": "Silene",
+        "text": "Silene is a genus of flowering plants in the family Caryophyllaceae."
+      }
+    ]
+  },
+  {
+    "qid": "5abbf698554299114383a0b5",
+    "difficulty": "hard",
+    "question": "Which British first-generation jet-powered medium bomber was used in the South West Pacific theatre of World War II?",
+    "gold_answer": "English Electric Canberra",
+    "context": [
+      {
+        "title": "No. 2 Squadron RAAF",
+        "text": "It saw action as a bomber unit in the South West Pacific theatre of World War II and, equipped with English Electric Canberra jets, in the Malayan Emergency and the Vietnam War."
+      },
+      {
+        "title": "English Electric Canberra",
+        "text": "The English Electric Canberra is a British first-generation jet-powered medium bomber that was manufactured during the 1950s."
+      }
+    ]
+  },
+  {
+    "qid": "5a8e1027554299653c1aa15f",
+    "difficulty": "hard",
+    "question": "Which year and which conference was the 14th season for this conference as part of the NCAA Division that the Colorado Buffaloes played in with a record of 2-6 in conference play?",
+    "gold_answer": "2009 Big 12 Conference",
+    "context": [
+      {
+        "title": "2009 Colorado Buffaloes football team",
+        "text": "The 2009 Colorado Buffaloes football team represented the University of Colorado in the 2009 NCAA Division I FBS college football season. The Buffaloes finished the season with a record of 3–9 and 2–6 in Big 12 play."
+      },
+      {
+        "title": "2009 Big 12 Conference football season",
+        "text": "The 2009 Big 12 Conference football season was the 14th season for the Big 12, as part of the 2009 NCAA Division I FBS football season."
+      }
+    ]
+  },
+  {
+    "qid": "5ab84bf555429916710eb01f",
+    "difficulty": "hard",
+    "question": "In 1991 Euromarché was bought by a chain that operated how any hypermarkets at the end of 2016?",
+    "gold_answer": "1,462",
+    "context": [
+      {
+        "title": "Euromarché",
+        "text": "In June 1991, the group was rebought by its rival, Carrefour, for 5,2 billion francs."
+      },
+      {
+        "title": "Carrefour",
+        "text": "It is one of the largest hypermarket chains in the world (with 1,462 hypermarkets at the end of 2016)."
+      }
+    ]
+  },
+  {
+    "qid": "5a77724455429972597f153e",
+    "difficulty": "hard",
+    "question": "What race track in the midwest hosts a 500 mile race eavery May?",
+    "gold_answer": "Indianapolis Motor Speedway",
+    "context": [
+      {
+        "title": "1957 Indianapolis 500",
+        "text": "The 41st International 500-Mile Sweepstakes was held at the Indianapolis Motor Speedway on Thursday, May 30, 1957."
+      },
+      {
+        "title": "Indianapolis Motor Speedway",
+        "text": "The Indianapolis Motor Speedway is an automobile racing circuit located in Speedway, Indiana, (an enclave suburb of Indianapolis) in the United States."
+      }
+    ]
+  },
+  {
+    "qid": "5a87c13f5542996e4f30890c",
+    "difficulty": "hard",
+    "question": "In what city did the \"Prince of tenors\" star in a film based on an opera by Giacomo Puccini?",
+    "gold_answer": "Rome",
+    "context": [
+      {
+        "title": "Tosca (1956 film)",
+        "text": "It was made at Cinecittà in Rome."
+      },
+      {
+        "title": "Franco Corelli",
+        "text": "Dubbed the \"Prince of tenors\", Corelli possessed handsome features and a charismatic stage presence which endeared him to audiences."
+      }
+    ]
+  },
+  {
+    "qid": "5ab96ab755429970cfb8eacd",
+    "difficulty": "hard",
+    "question": "Ellie Goulding worked with what other writers on her third studio album, Delirium?",
+    "gold_answer": "Max Martin, Savan Kotecha and Ilya Salmanzadeh",
+    "context": [
+      {
+        "title": "Delirium (Ellie Goulding album)",
+        "text": "Delirium is the third studio album by English singer and songwriter Ellie Goulding, released on 6 November 2015 by Polydor Records. The album spawned three singles: \"On My Mind\", \"Army\" and \"Something in the Way You Move\"."
+      },
+      {
+        "title": "On My Mind (Ellie Goulding song)",
+        "text": "\"On My Mind\" is a song by English singer Ellie Goulding from her third studio album \"Delirium\" (2015). It was written by Goulding, Max Martin, Savan Kotecha and Ilya Salmanzadeh."
+      }
+    ]
+  },
+  {
+    "qid": "5a8a43eb5542996c9b8d5e82",
+    "difficulty": "hard",
+    "question": "Which Australian city founded in 1838 contains a boarding school opened by a Prime Minister of Australia and named after a school in London of the same name.",
+    "gold_answer": "Marion, South Australia",
+    "context": [
+      {
+        "title": "Westminster School, Adelaide",
+        "text": "Westminster School is an independent, Uniting Church, Early Learning to Year 12, coeducational, day and boarding school located at Marion, South Australia, 12 km south of Adelaide. Founded as a Methodist day and boarding school for boys, the school was opened by the Prime Minister Robert Menzies in 1961 and is named after Westminster School in London."
+      },
+      {
+        "title": "Marion, South Australia",
+        "text": "Marion is a suburb in the City of Marion in Adelaide around 10 km south-west of the CBD. Founded as a rural village in 1838 on the banks of the Sturt River, Marion was found to have rich soil and the population expanded rapidly."
+      }
+    ]
+  },
+  {
+    "qid": "5ae73acb5542991e8301cc07",
+    "difficulty": "hard",
+    "question": "D1NZ is a series based on what oversteering technique?",
+    "gold_answer": "Drifting",
+    "context": [
+      {
+        "title": "D1NZ",
+        "text": "D1NZ is a production car drifting series in New Zealand."
+      },
+      {
+        "title": "Drifting (motorsport)",
+        "text": "Drifting is a driving technique where the driver intentionally oversteers, with loss of traction in the rear wheels or all tires, while maintaining control and driving the car through the entirety of a corner."
+      }
+    ]
+  },
+  {
+    "qid": "5a7320565542991f9a20c61d",
+    "difficulty": "hard",
+    "question": "who is younger Keith Bostic or Jerry Glanville ?",
+    "gold_answer": "Keith Bostic",
+    "context": [
+      {
+        "title": "Keith Bostic (American football)",
+        "text": "William Keith Bostic (born January 17, 1961) is a former professional American football player who played for seven seasons in the National Football League (NFL)."
+      },
+      {
+        "title": "Jerry Glanville",
+        "text": "Jerry Michael Glanville (born October 14, 1941) is a former American football player and coach, former NASCAR driver and owner, and sportscaster."
+      }
+    ]
+  },
+  {
+    "qid": "5ae32e125542991a06ce9946",
+    "difficulty": "hard",
+    "question": "According to the 2001 census, what was the population of the city in which Kirton End is located?",
+    "gold_answer": "35,124",
+    "context": [
+      {
+        "title": "Kirton End",
+        "text": "Kirton End is a hamlet in the civil parish of Kirton in the Boston district of Lincolnshire, England."
+      },
+      {
+        "title": "Boston, Lincolnshire",
+        "text": "The borough had a total population of 66,900, at the ONS mid 2015 estimates, while the town itself had a population of 35,124 at the 2001 census."
+      }
+    ]
+  },
+  {
+    "qid": "5adc53f75542996e6852530a",
+    "difficulty": "hard",
+    "question": "Are both Cypress and Ajuga genera?",
+    "gold_answer": "no",
+    "context": [
+      {
+        "title": "Cypress",
+        "text": "Cypress is a conifer tree or shrub of northern temperate regions that belongs to the family Cupressaceae."
+      },
+      {
+        "title": "Ajuga",
+        "text": "Ajuga , also known as bugleweed, ground pine, carpet bugle, or just bugle, is a genus of 40 species annual and perennial herbaceous flowering plantsin the mint family Lamiaceae, with most species native to Europe, Asia, and Africa, but also two species in southeastern Australia."
+      }
+    ]
+  },
+  {
+    "qid": "5a8b20335542996c9b8d5fb3",
+    "difficulty": "hard",
+    "question": "What distinction is held by the former NBA player who was a member of the Charlotte Hornets during their 1992-93 season and was head coach for the WNBA team Charlotte Sting?",
+    "gold_answer": "shortest player ever to play in the National Basketball Association",
+    "context": [
+      {
+        "title": "1992–93 Charlotte Hornets season",
+        "text": "With the addition of Mourning, along with second-year star Larry Johnson and Muggsy Bogues, the Hornets struggled around .500 for most of the season, but won 9 of their final 12 games finishing their season third in the Central Division with a 44–38 record, and qualified for their first ever playoff appearance."
+      },
+      {
+        "title": "Muggsy Bogues",
+        "text": "The shortest player ever to play in the National Basketball Association, the 5 ft Bogues played point guard for four teams during his 14-season career in the NBA. After his NBA career, he served as head coach of the now-defunct WNBA team Charlotte Sting."
+      }
+    ]
+  },
+  {
+    "qid": "5a85fb085542994775f606de",
+    "difficulty": "hard",
+    "question": "What is the name of the executive producer of the film that has a score composed by Jerry Goldsmith?",
+    "gold_answer": "Ronald Shusett",
+    "context": [
+      {
+        "title": "Alien (soundtrack)",
+        "text": "The iconic, avant-garde score to the film \"Alien\" was composed by Jerry Goldsmith and is considered by some to be one of his best, most visceral scores."
+      },
+      {
+        "title": "Alien (film)",
+        "text": "Dan O'Bannon, drawing upon previous works of science fiction and horror, wrote the screenplay from a story he co-authored with Ronald Shusett. Shusett was executive producer."
+      }
+    ]
+  },
+  {
+    "qid": "5a7be2595542997c3ec972ac",
+    "difficulty": "hard",
+    "question": "Who was born earlier, Emma Bull or Virginia Woolf?",
+    "gold_answer": "Adeline Virginia Woolf",
+    "context": [
+      {
+        "title": "Emma Bull",
+        "text": "Emma Bull (born December 13, 1954) is an American science fiction and fantasy author."
+      },
+      {
+        "title": "Virginia Woolf",
+        "text": "Adeline Virginia Woolf (née Stephen; 25 January 1882 – 28 March 1941) was an English writer who is considered one of the foremost modernists of the twentieth century, and a pioneer in the use of stream of consciousness as a narrative device."
+      }
+    ]
+  },
+  {
+    "qid": "5a77152355429966f1a36c2e",
+    "difficulty": "hard",
+    "question": "What was the Roud Folk Song Index of the nursery rhyme inspiring What Are Little Girls Made Of?",
+    "gold_answer": "821",
+    "context": [
+      {
+        "title": "What Are Little Girls Made Of?",
+        "text": "The title of the episode is taken from the fourth line of the 19th century nursery rhyme, \"What Are Little Boys Made Of?"
+      },
+      {
+        "title": "What Are Little Boys Made Of?",
+        "text": "\"What Are Little Boys Made Of?\" It has a Roud Folk Song Index number of 821."
+      }
+    ]
+  },
+  {
+    "qid": "5a8f4c8d554299458435d5a3",
+    "difficulty": "hard",
+    "question": "Scott Parkin has been a vocal critic of Exxonmobil and another corporation that has operations in how many countries ?",
+    "gold_answer": "more than 70 countries",
+    "context": [
+      {
+        "title": "Scott Parkin",
+        "text": "He has been a vocal critic of the American invasion of Iraq, and of corporations such as Exxonmobil and Halliburton."
+      },
+      {
+        "title": "Halliburton",
+        "text": "One of the world's largest oil field service companies, it has operations in more than 70 countries."
+      }
+    ]
+  },
+  {
+    "qid": "5a80840f554299485f59863b",
+    "difficulty": "hard",
+    "question": "What WB supernatrual drama series was Jawbreaker star Rose Mcgowan best known for being in?",
+    "gold_answer": "Charmed",
+    "context": [
+      {
+        "title": "Jawbreaker (film)",
+        "text": "Jawbreaker is a 1999 American black comedy film written and directed by Darren Stein. The film stars Rose McGowan, Rebecca Gayheart, and Julie Benz as girls in an exclusive clique in their high school."
+      },
+      {
+        "title": "Rose McGowan",
+        "text": "She is best known to television audiences for having played Paige Matthews in The WB supernatural drama series \"Charmed\" from 2001 to 2006."
+      }
+    ]
+  },
+  {
+    "qid": "5a8361b65542992ef85e22a0",
+    "difficulty": "hard",
+    "question": "Vince Phillips held a junior welterweight title by an organization recognized by what larger Hall of Fame?",
+    "gold_answer": "International Boxing Hall of Fame",
+    "context": [
+      {
+        "title": "Vince Phillips",
+        "text": "He held the IBF junior welterweight title from 1997 to 1999, notably scoring an upset victory against then-undefeated Kostya Tszyu to become champion."
+      },
+      {
+        "title": "International Boxing Federation",
+        "text": "The International Boxing Federation (IBF) is one of four major organizations recognized by the International Boxing Hall of Fame (IBHOF) which sanction world championship boxing bouts, alongside the World Boxing Association (WBA), World Boxing Council (WBC) and World Boxing Organization (WBO)."
+      }
+    ]
+  },
+  {
+    "qid": "5ae7ba7a5542993210983f12",
+    "difficulty": "hard",
+    "question": "What is the name of the singer who's song was released as the lead single from the album \"Confessions\", and that had popular song stuck behind for eight consecutive weeks?",
+    "gold_answer": "Usher",
+    "context": [
+      {
+        "title": "I Don't Wanna Know",
+        "text": "It reached number 1 in the United Kingdom and in Netherlands, and number 2 in the United States, stuck for eight consecutive weeks behind the Usher singles \"Yeah\" and \"Burn\", respectively."
+      },
+      {
+        "title": "Yeah! (Usher song)",
+        "text": "The song was released as the lead single from Usher's fourth studio album \"Confessions\" (2004) on January 27, 2004, after Usher was told by Arista Records, his label at the time, to record more tracks for the album."
+      }
+    ]
+  },
+  {
+    "qid": "5ac2acff55429921a00ab02b",
+    "difficulty": "hard",
+    "question": "who is the younger brother of The episode guest stars of The Hard Easy",
+    "gold_answer": "Bill Murray",
+    "context": [
+      {
+        "title": "The Hard Easy (Adventure Time)",
+        "text": "The episode guest stars Brian Doyle-Murray as Prince Huge and Jonathan Katz as the Mudscamp elder."
+      },
+      {
+        "title": "Brian Doyle-Murray",
+        "text": "He is the older brother of actor/comedian Bill Murray, and the two have acted together in several films, including \"Caddyshack\", \"Scrooged\", \"Ghostbusters II\", \"The Razor's Edge\", and \"Groundhog Day\"."
+      }
+    ]
+  },
+  {
+    "qid": "5aba7cfe554299232ef4a2fd",
+    "difficulty": "hard",
+    "question": "The 2017–18 Wigan Athletic F.C. season will be a year in which the team competes in the league cup known as what for sponsorship reasons?",
+    "gold_answer": "Carabao Cup",
+    "context": [
+      {
+        "title": "2017–18 Wigan Athletic F.C. season",
+        "text": "Along with competing in the league, the club will also participate in the FA Cup, EFL Cup and EFL Trophy."
+      },
+      {
+        "title": "EFL Cup",
+        "text": "The EFL Cup (referred to historically, and colloquially, as simply the League Cup), currently known as the Carabao Cup for sponsorship reasons, is an annual knockout football competition in men's domestic English football."
+      }
+    ]
+  },
+  {
+    "qid": "5ae5aba0554299546bf82f17",
+    "difficulty": "hard",
+    "question": "Which of Tara Strong major voice role in animated series is an American animated television series based on the DC Comics fictional superhero team, the \"Teen Titans\"?",
+    "gold_answer": "Teen Titans Go!",
+    "context": [
+      {
+        "title": "Tara Strong",
+        "text": "Many of her major voice roles include animated series such as \"Rugrats\", \"The Powerpuff Girls\", \"The Fairly OddParents\", \"Drawn Together\", \"Teen Titans\" and the spin-off series \"Teen Titans Go!"
+      },
+      {
+        "title": "Teen Titans Go! (TV series)",
+        "text": "Teen Titans Go!"
+      }
+    ]
+  },
+  {
+    "qid": "5ae1f4cb554299234fd0436d",
+    "difficulty": "hard",
+    "question": "What is the inhabitant of the city where  122nd SS-Standarte was formed in2014",
+    "gold_answer": "276,170 inhabitants",
+    "context": [
+      {
+        "title": "122nd SS-Standarte",
+        "text": "The 122nd SS-Standarte was a regimental command of the Allgemeine-SS that was formed in the city of Strasbourg during World War II."
+      },
+      {
+        "title": "Strasbourg",
+        "text": "In 2014, the city proper had 276,170 inhabitants and both the Eurométropole de Strasbourg (Greater Strasbourg) and the Arrondissement of Strasbourg had 484,157 inhabitants."
+      }
+    ]
+  },
+  {
+    "qid": "5ae7e1fc55429952e35ea9cc",
+    "difficulty": "hard",
+    "question": "What color clothing do people of the Netherlands wear during Oranjegekte or to celebrate the national holiday Koningsdag?",
+    "gold_answer": "orange",
+    "context": [
+      {
+        "title": "Oranjegekte",
+        "text": "It manifests itself in the wearing of orange clothing such as T-shirts, caps and scarfs; lavish attention for sports and sports fans in the media; and the decoration of cars, rooms, houses, shops, and even entire streets in orange, the traditional color of the Dutch royal family, the House of Orange-Nassau."
+      },
+      {
+        "title": "Koningsdag",
+        "text": "Koningsdag (] ) or King's Day is a national holiday in the Kingdom of the Netherlands."
+      }
+    ]
+  },
+  {
+    "qid": "5ae37c765542992f92d822d4",
+    "difficulty": "hard",
+    "question": "What was the name of the 1996 loose adaptation of William Shakespeare's \"Romeo & Juliet\" written by James Gunn?",
+    "gold_answer": "Tromeo and Juliet",
+    "context": [
+      {
+        "title": "James Gunn",
+        "text": "He started his career as a screenwriter in the mid-1990s, writing the scripts for \"Tromeo and Juliet\" (1996), \"Scooby-Doo\" (2002) and its sequel \"\" (2004), and the 2004 version of \"Dawn of the Dead\"."
+      },
+      {
+        "title": "Tromeo and Juliet",
+        "text": "Tromeo and Juliet is a 1996 American independent transgressive romantic comedy film and a loose adaptation of William Shakespeare's \"Romeo & Juliet\" from Troma Entertainment."
+      }
+    ]
+  },
+  {
+    "qid": "5ae33c4d5542992f92d82262",
+    "difficulty": "hard",
+    "question": "Robert Suettinger was the national intelligence officer under which former Governor of Arkansas?",
+    "gold_answer": "William Jefferson Clinton",
+    "context": [
+      {
+        "title": "Robert Suettinger",
+        "text": "Robert Suettinger was United States President Bill Clinton's national intelligence officer for East Asia at the National Intelligence Council (NIC) from 1997-1998."
+      },
+      {
+        "title": "Bill Clinton",
+        "text": "William Jefferson Clinton (born William Jefferson Blythe III; August 19, 1946) is an American politician who served as the 42nd President of the United States from 1993 to 2001. Prior to the presidency, he was the Governor of Arkansas during two separate terms, from 1979 to 1981, and again from 1983 to 1992."
+      }
+    ]
+  },
+  {
+    "qid": "5a77cb335542997042120b3a",
+    "difficulty": "hard",
+    "question": "What American professional Hawaiian surfer born 18 October 1992 won the Rip Curl Pro Portugal?",
+    "gold_answer": "John John Florence",
+    "context": [
+      {
+        "title": "MEO Rip Curl Pro Portugal",
+        "text": "MEO Rip Curl Pro Portugal formerly known as \"Moche Rip Curl Pro Portugal\" or \"Rip Curl Pro Portugal\" is a professional surfing competition of the ASP World Tour held every year in October at the Supertubos beach in Peniche, Portugal. The defending champion is the 2016 WSL champion, John John Florence who won the event in 2016."
+      },
+      {
+        "title": "John John Florence",
+        "text": "John \"John\" Alexander Florence (born 18 October 1992) is an American professional surfer. He is the first Hawaiian champion since 3 times world champion Andy Irons."
+      }
+    ]
+  },
+  {
+    "qid": "5a8979f4554299669944a52e",
+    "difficulty": "hard",
+    "question": "What is the middle name of the actress who plays Bobbi Bacha in Suburban Madness?",
+    "gold_answer": "Ann",
+    "context": [
+      {
+        "title": "Bobbi Bacha",
+        "text": "Bobbi Bacha is a Texas Private Investigator portrayed in 2004 TV Sony Pictures Movie \"Suburban Madness\" played by actress Sela Ward."
+      },
+      {
+        "title": "Sela Ward",
+        "text": "Sela Ann Ward (born July 11, 1956) is an American actress, author and producer, best known for her roles on television beginning in the early '80s."
+      }
+    ]
+  },
+  {
+    "qid": "5a713ea95542994082a3e6e4",
+    "difficulty": "hard",
+    "question": "Alvaro Mexia had a diplomatic mission with which tribe of indigenous people?",
+    "gold_answer": "Apalachees",
+    "context": [
+      {
+        "title": "Alvaro Mexia",
+        "text": "Alvaro Mexia was a 17th-century Spanish explorer and cartographer of the east coast of Florida. Mexia was stationed in St Augustine and was given a diplomatic mission to the native populations living south of St. Augustine and in the Cape Canaveral area."
+      },
+      {
+        "title": "Indigenous peoples of Florida",
+        "text": "Some Apalachees migrated to Louisiana, where their descendants now live, some were taken to Cuba and Mexico by the Spanish in the 18th century, and a few may have been absorbed into the Seminole and Miccosukee tribes."
+      }
+    ]
+  },
+  {
+    "qid": "5a78bd9b554299078472774a",
+    "difficulty": "hard",
+    "question": "What nationality were social anthropologists Alfred Gell and Edmund Leach?",
+    "gold_answer": "British",
+    "context": [
+      {
+        "title": "Alfred Gell",
+        "text": "Alfred Antony Francis Gell, {'1': \", '2': \", '3': \", '4': \"} ( ; June 12, 1945 – January 28, 1997) was a British social anthropologist whose most influential work concerned art, language, symbolism and ritual."
+      },
+      {
+        "title": "Edmund Leach",
+        "text": "Sir Edmund Ronald Leach (7 November 1910 – 6 January 1989) was a British social anthropologist."
+      }
+    ]
+  },
+  {
+    "qid": "5a7625e8554299109176e66a",
+    "difficulty": "hard",
+    "question": "In which year was the King who made the 1925 Birthday Honours born?",
+    "gold_answer": "1865",
+    "context": [
+      {
+        "title": "1925 Birthday Honours",
+        "text": "The 1925 Birthday Honours were appointments by King George V to various orders and honours to reward and highlight good works by citizens of the British Empire."
+      },
+      {
+        "title": "George V",
+        "text": "George V (George Frederick Ernest Albert; 3 June 1865 – 20 January 1936) was King of the United Kingdom and the British Dominions, and Emperor of India, from 6 May 1910 until his death in 1936."
+      }
+    ]
+  },
+  {
+    "qid": "5ae2dd2055429928c423950d",
+    "difficulty": "hard",
+    "question": "What is the county seat of the county where East Lempster, New Hampshire is located?",
+    "gold_answer": "Newport",
+    "context": [
+      {
+        "title": "East Lempster, New Hampshire",
+        "text": "East Lempster is an unincorporated community in the town of Lempster in Sullivan County, New Hampshire, United States."
+      },
+      {
+        "title": "Sullivan County, New Hampshire",
+        "text": "Its county seat is Newport."
+      }
+    ]
+  },
+  {
+    "qid": "5abdf12255429976d4830a2f",
+    "difficulty": "hard",
+    "question": "The Album Against the Wind was the 11th Album of a Rock singer Robert C Seger born may 6 1945. What was the Rock singers stage name ?",
+    "gold_answer": "Bob Seger",
+    "context": [
+      {
+        "title": "Against the Wind (album)",
+        "text": "Against the Wind is the eleventh album by American rock singer Bob Seger and his fourth with the Silver Bullet Band."
+      },
+      {
+        "title": "Bob Seger",
+        "text": "Robert Clark Seger ( , born May 6, 1945) is an American singer-songwriter, guitarist and pianist."
+      }
+    ]
+  },
+  {
+    "qid": "5a88658955429938390d3f47",
+    "difficulty": "hard",
+    "question": "Rostker v. Goldberg held that the practice of what way of filling armed forces vacancies was consitutional?",
+    "gold_answer": "Conscription",
+    "context": [
+      {
+        "title": "Rostker v. Goldberg",
+        "text": "Rostker v. Goldberg, 453 U.S. 57 (1981) , was a decision of the United States Supreme Court holding that the practice of requiring only men to register for the draft was constitutional."
+      },
+      {
+        "title": "Conscription in the United States",
+        "text": "Conscription in the United States, commonly known as the draft, has been employed by the federal government of the United States in four conflicts: the American Civil War, World War I, World War II, and the Cold War (including both the Korean and Vietnam Wars). From 1940 until 1973, during both peacetime and periods of conflict, men were drafted to fill vacancies in the United States Armed Forces that could not be filled through voluntary means."
+      }
+    ]
+  },
+  {
+    "qid": "5a86ebac55429960ec39b6d6",
+    "difficulty": "hard",
+    "question": "Handi-Snacks are a snack food product line sold by what American multinational confectionery, food, and beverage company that is based in Illinois?",
+    "gold_answer": "Mondelez International, Inc.",
+    "context": [
+      {
+        "title": "Handi-Snacks",
+        "text": "Handi-Snacks are a snack food product line sold by Mondelez International."
+      },
+      {
+        "title": "Mondelez International",
+        "text": "Mondelez International, Inc., styled Mondelēz ( ), is an American multinational confectionery, food, and beverage company based in Illinois which employs about 107,000 people around the world."
+      }
+    ]
+  },
+  {
+    "qid": "5aba5d2e55429901930fa799",
+    "difficulty": "hard",
+    "question": "What was the name of a woman from the book titled \"Their Lives: The Women Targeted by the Clinton Machine \" and was also a former white house intern?",
+    "gold_answer": "Monica Lewinsky",
+    "context": [
+      {
+        "title": "Their Lives",
+        "text": "Their Lives: The Women Targeted by the Clinton Machine is a book by Candice E. Jackson. Published by conservative publisher World Ahead Publishing on May 31, 2005, it recounts the stories of seven women who crossed paths with Bill Clinton: Monica Lewinsky, Paula Jones, Gennifer Flowers, Kathleen Willey, Elizabeth Gracen, Juanita Broaddrick, and Sally Perdue."
+      },
+      {
+        "title": "Monica Lewinsky",
+        "text": "Monica Samille Lewinsky (born July 23, 1973) is an American activist, television personality, fashion designer, and former White House intern."
+      }
+    ]
+  },
+  {
+    "qid": "5ae5736e5542990ba0bbb2b3",
+    "difficulty": "hard",
+    "question": "When was the American lawyer, lobbyist and political consultant who was a senior member of the presidential campaign of Donald Trump born?",
+    "gold_answer": "April 1, 1949",
+    "context": [
+      {
+        "title": "Trump campaign–Russian meeting",
+        "text": "On June 9, 2016, a meeting was held in Trump Tower in New York City between three senior members of the presidential campaign of Donald TrumpDonald Trump Jr., Jared Kushner, and Paul Manafortand at least five other people, including Russian lawyer Natalia Veselnitskaya."
+      },
+      {
+        "title": "Paul Manafort",
+        "text": "Paul John Manafort Jr. (born April 1, 1949) is an American lawyer, lobbyist and political consultant."
+      }
+    ]
+  },
+  {
+    "qid": "5ae005b555429942ec259bec",
+    "difficulty": "hard",
+    "question": "In what year was the novel that Lourenço Mutarelli based \"Nina\" on based first published?",
+    "gold_answer": "1866",
+    "context": [
+      {
+        "title": "Lourenço Mutarelli",
+        "text": "In addition to comic books, Mutarelli has also created plays, books, and all the illustration and animated sequences of the 2004 motion picture \"Nina\", which was based on the novel \"Crime and Punishment\" by Dostoyevsky."
+      },
+      {
+        "title": "Crime and Punishment",
+        "text": "It was first published in the literary journal \"The Russian Messenger\" in twelve monthly installments during 1866."
+      }
+    ]
+  },
+  {
+    "qid": "5a7759fc5542993569682d60",
+    "difficulty": "hard",
+    "question": "Where are Teide National Park and Garajonay National Park located?",
+    "gold_answer": "Canary Islands, Spain",
+    "context": [
+      {
+        "title": "Teide National Park",
+        "text": "Teide National Park (Spanish: \"Parque nacional del Teide\" , ] ) is a national park located in Tenerife (Canary Islands, Spain)."
+      },
+      {
+        "title": "Garajonay National Park",
+        "text": "Garajonay National Park (Spanish: \"Parque nacional de Garajonay\" , ] ) is located in the center and north of the island of La Gomera, one of the Canary Islands (Spain)."
+      }
+    ]
+  },
+  {
+    "qid": "5a835478554299123d8c20ed",
+    "difficulty": "hard",
+    "question": "How many copies of Roald Dahl's variation on a popular anecdote sold?",
+    "gold_answer": "250 million",
+    "context": [
+      {
+        "title": "Mrs. Bixby and the Colonel's Coat",
+        "text": "The story is Dahl's variation on a popular anecdote dating back at least to 1939: a married woman receives a glamorous mink coat from a man with whom she had an affair."
+      },
+      {
+        "title": "Roald Dahl",
+        "text": "His books have sold more than 250 million copies worldwide."
+      }
+    ]
+  },
+  {
+    "qid": "5aba749055429901930fa7d8",
+    "difficulty": "hard",
+    "question": "What occupation do Chris Menges and Aram Avakian share?",
+    "gold_answer": "director",
+    "context": [
+      {
+        "title": "Aram Avakian",
+        "text": "Aram A. Avakian (April 23, 1926 – January 17, 1987) was an Armenian-American film editor and director."
+      },
+      {
+        "title": "Chris Menges",
+        "text": "Chris Menges BSC, ASC (born 15 September 1940) is an English cinematographer and film director."
+      }
+    ]
+  },
+  {
+    "qid": "5abfb3425542990832d3a1c0",
+    "difficulty": "hard",
+    "question": "Andrew Jaspan was the co-founder of what not-for-profit media outlet?",
+    "gold_answer": "The Conversation",
+    "context": [
+      {
+        "title": "Andrew Jaspan",
+        "text": "Andrew Jaspan, (b. 20 April 1952) British-Australian journalist, the co-founder of \"The Conversation\", an independent not-for-profit website of analysis and news from the university and research sector  and its Editor-in-Chief from The Conversation's launch in March 2011 until March 2017."
+      },
+      {
+        "title": "The Conversation (website)",
+        "text": "The Conversation is an independent, not-for-profit media outlet that uses content sourced from the academic and research community."
+      }
+    ]
+  },
+  {
+    "qid": "5ac3165c5542995ef918c10a",
+    "difficulty": "hard",
+    "question": "Which American film director hosted the 18th Independent Spirit Awards in 2002?",
+    "gold_answer": "John Waters",
+    "context": [
+      {
+        "title": "18th Independent Spirit Awards",
+        "text": "The 2002 Independent Spirit Awards, honoring the best in independent filmmaking for 2002, were announced on March 22, 2003. It was hosted by John Waters."
+      },
+      {
+        "title": "John Waters",
+        "text": "John Samuel Waters Jr. (born April 22, 1946) is an American film director, screenwriter, author, actor, stand-up comedian, journalist, visual artist, and art collector, who rose to fame in the early 1970s for his transgressive cult films."
+      }
+    ]
+  },
+  {
+    "qid": "5ae53b545542990ba0bbb23c",
+    "difficulty": "hard",
+    "question": "Where does the hotel and casino located in which Bill Cosby's third album was recorded?",
+    "gold_answer": "Las Vegas Strip in Paradise",
+    "context": [
+      {
+        "title": "Why Is There Air?",
+        "text": "Why Is There Air? (1965) is Bill Cosby's third album. It was recorded at the Flamingo Hotel in Las Vegas, Nevada."
+      },
+      {
+        "title": "Flamingo Las Vegas",
+        "text": "Flamingo Las Vegas (formerly The Fabulous Flamingo and Flamingo Hilton Las Vegas) is a hotel and casino located on the Las Vegas Strip in Paradise, Nevada."
+      }
+    ]
+  },
+  {
+    "qid": "5ae224da554299234fd043ee",
+    "difficulty": "hard",
+    "question": "Do the drinks Gibson and Zurracapote both contain gin?",
+    "gold_answer": "no",
+    "context": [
+      {
+        "title": "Gibson (cocktail)",
+        "text": "The Gibson is a mixed drink made with gin and vermouth, and often garnished with a pickled onion."
+      },
+      {
+        "title": "Zurracapote",
+        "text": "It consists of red wine mixed with fruit such as peaches and lemons, sugar, and cinnamon."
+      }
+    ]
+  },
+  {
+    "qid": "5ae2b770554299495565db0f",
+    "difficulty": "hard",
+    "question": "In what month is the annual documentary film festival, that is presented by the fortnightly published British journal of literary essays, held?",
+    "gold_answer": "March and April",
+    "context": [
+      {
+        "title": "London International Documentary Festival",
+        "text": "The London International Documentary Festival (or LIDF) is an annual documentary film festival that takes place in the months of March and April every year. The event is presented in association with the London Review of Books."
+      },
+      {
+        "title": "London Review of Books",
+        "text": "The London Review of Books (LRB) is a British journal of literary essays. It is published fortnightly."
+      }
+    ]
+  },
+  {
+    "qid": "5a80b3a9554299485f5986cc",
+    "difficulty": "hard",
+    "question": "Tysons Galleria is located in what county?",
+    "gold_answer": "Fairfax County",
+    "context": [
+      {
+        "title": "McLean, Virginia",
+        "text": "McLean ( ) is a census-designated place (CDP) in Fairfax County in Northern Virginia."
+      },
+      {
+        "title": "Tysons Galleria",
+        "text": "Tysons Galleria is a three-level super-regional mall owned by General Growth Properties located at 2001 International Drive, McLean, Virginia, in Tysons Corner."
+      }
+    ]
+  },
+  {
+    "qid": "5a8e0a005542995085b373a1",
+    "difficulty": "hard",
+    "question": "Bordan Tkachuk was the CEO of a company that provides what sort of products?",
+    "gold_answer": "IT products and services",
+    "context": [
+      {
+        "title": "Bordan Tkachuk",
+        "text": "Bordan Tkachuk ( ) is a British business executive, the former CEO of Viglen, also known from his appearances on the BBC-produced British version of \"The Apprentice,\" interviewing for his boss Lord Sugar."
+      },
+      {
+        "title": "Viglen",
+        "text": "Viglen Ltd provides IT products and services, including storage systems, servers, workstations and data/voice communications equipment and services."
+      }
+    ]
+  },
+  {
+    "qid": "5ac1b8ee5542994d76dccedc",
+    "difficulty": "hard",
+    "question": "Which filmmaker was known for animation, Lev Yilmaz or Pamela B. Green?",
+    "gold_answer": "Levni Yilmaz",
+    "context": [
+      {
+        "title": "Lev Yilmaz",
+        "text": "Levni Yilmaz (born 1973) is a San Francisco based independent film maker, artist and publisher, best known for his “Tales of Mere Existence” animated comic series."
+      },
+      {
+        "title": "Pamela B. Green",
+        "text": "Pamela B. Green is an American film producer and director known for her work in feature film titles and motion graphics."
+      }
+    ]
+  },
+  {
+    "qid": "5adccd795542990d50227d2c",
+    "difficulty": "hard",
+    "question": "In which city is the ambassador of the Rabat-Salé-Kénitra administrative region to China based?",
+    "gold_answer": "Beijing",
+    "context": [
+      {
+        "title": "Moroccan Ambassador to China",
+        "text": "The Moroccan ambassador in Beijing is the official representative of the Government in Rabat to the Government of the People's Republic of China."
+      },
+      {
+        "title": "Rabat",
+        "text": "Rabat (Berber: , Arabic: الرِّبَاط‎ ‎ , Moroccan Arabic: رّباط‎ ‎ ) is the capital city of Morocco and its second largest city with an urban population of approximately 580,000 (2014) and a metropolitan population of over 1.2 million. It is also the capital city of the Rabat-Salé-Kénitra administrative region."
+      }
+    ]
+  },
+  {
+    "qid": "5a84c4135542994c784dda31",
+    "difficulty": "hard",
+    "question": "Are Yingkou and Fuding the same level of city?",
+    "gold_answer": "no",
+    "context": [
+      {
+        "title": "Yingkou",
+        "text": "Yingkou () is a prefecture-level city of Liaoning province, People's Republic of China."
+      },
+      {
+        "title": "Fuding",
+        "text": "() is a county-level city in northeastern Ningde prefecture level city, on Fujian's border with Zhejiang province."
+      }
+    ]
+  },
+  {
+    "qid": "5a85eed75542996432c5713b",
+    "difficulty": "hard",
+    "question": "Where did the descendants of the group of black Indians associated with the Seminole people settle?",
+    "gold_answer": "Coahuila, Mexico",
+    "context": [
+      {
+        "title": "Mascogos",
+        "text": "The Mascogos (also known as \"negros mascagos\") are an afrodescendant group in Coahuila, Mexico."
+      },
+      {
+        "title": "Black Seminoles",
+        "text": "The Black Seminoles are black Indians associated with the Seminole people in Florida and Oklahoma."
+      }
+    ]
+  },
+  {
+    "qid": "5a774e9c55429972597f14f3",
+    "difficulty": "hard",
+    "question": "David Huntsinger has worked with this gospel singer born in the month of July?",
+    "gold_answer": "Larnelle Harris",
+    "context": [
+      {
+        "title": "David Huntsinger",
+        "text": "He has worked with many artists, such as Sandi Patti, Steve Green, Kathy Troccoli, Michael Crawford, Glen Campbell, Carman, Larnelle Harris, Johnny Cash and Dolly Parton."
+      },
+      {
+        "title": "Larnelle Harris",
+        "text": "Larnelle Steward Harris (born July 6, 1947) is an American gospel singer and songwriter."
+      }
+    ]
+  },
+  {
+    "qid": "5ae738f75542991bbc9761c4",
+    "difficulty": "hard",
+    "question": "What year was the brother of this first round draft pick by the Washington Redskins drafted?",
+    "gold_answer": "2003",
+    "context": [
+      {
+        "title": "Boss Bailey",
+        "text": "He was originally drafted by the Detroit Lions in the second round of the 2003 NFL Draft. He is the brother of former NFL cornerback Champ Bailey."
+      },
+      {
+        "title": "Champ Bailey",
+        "text": "He played college football for Georgia, where he earned consensus All-American honors, and was drafted by the Washington Redskins in the first round of the 1999 NFL Draft. He is the brother of former NFL linebacker Boss Bailey."
+      }
+    ]
+  },
+  {
+    "qid": "5ac32b565542995ef918c154",
+    "difficulty": "hard",
+    "question": "Where is the stadium at which 1964 Georgia Tech Yellow Jackets football team played their home game located?",
+    "gold_answer": "North Avenue at Techwood Drive",
+    "context": [
+      {
+        "title": "1964 Georgia Tech Yellow Jackets football team",
+        "text": "The Yellow Jackets were led by 20th-year head coach Bobby Dodd, and played their home games at Grant Field in Atlanta, Georgia."
+      },
+      {
+        "title": "Bobby Dodd Stadium",
+        "text": "Bobby Dodd Stadium at Historic Grant Field is the football stadium located at the corner of North Avenue at Techwood Drive on the campus of the Georgia Institute of Technology in Atlanta."
+      }
+    ]
+  },
+  {
+    "qid": "5abc8d75554299700f9d7900",
+    "difficulty": "hard",
+    "question": "Since 2 June 2017, The Leader of Fine Gael had been held by which Irish Fine Gael politician who has served as Taoiseach and Minister for Defence?",
+    "gold_answer": "Leo Varadkar",
+    "context": [
+      {
+        "title": "Leader of Fine Gael",
+        "text": "Since 2 June 2017, the office had been held by Leo Varadkar following the resignation of Enda Kenny."
+      },
+      {
+        "title": "Leo Varadkar",
+        "text": "Leo Eric Varadkar ( ; Irish: \"Leo de Varad\" ;born 18 January 1979) is an Irish Fine Gael politician who has served as Taoiseach, Minister for Defence and Leader of Fine Gael since June 2017."
+      }
+    ]
+  },
+  {
+    "qid": "5a8bb29b554299240d9c2089",
+    "difficulty": "hard",
+    "question": "Which American film actor and dancer starred in the 1945 film Johnny Angel?",
+    "gold_answer": "George Raft",
+    "context": [
+      {
+        "title": "Johnny Angel",
+        "text": "The movie stars George Raft, Claire Trevor and Signe Hasso, and features Hoagy Carmichael."
+      },
+      {
+        "title": "George Raft",
+        "text": "George Raft (born George Ranft; September 26, 1901 – November 24, 1980) was an American film actor and dancer identified with portrayals of gangsters in crime melodramas of the 1930s and 1940s."
+      }
+    ]
+  },
+  {
+    "qid": "5ab659e355429954757d324e",
+    "difficulty": "hard",
+    "question": "hree Men on a Horse is a play by a playwright born in which year ?",
+    "gold_answer": "1887",
+    "context": [
+      {
+        "title": "Three Men on a Horse",
+        "text": "Three Men on a Horse is a play by George Abbott and John Cecil Holm."
+      },
+      {
+        "title": "George Abbott",
+        "text": "George Francis Abbott (June 25, 1887 – January 31, 1995) was an American theater producer and director, playwright, screenwriter, and film director and producer whose career spanned nine decades."
+      }
+    ]
+  },
+  {
+    "qid": "5a8b8b3155429949d91db5d7",
+    "difficulty": "hard",
+    "question": "What type of activity does Owner earnings and Warren Buffett have in common?",
+    "gold_answer": "business",
+    "context": [
+      {
+        "title": "Owner earnings",
+        "text": "He stated that the value of a company is simply the total of the net cash flows (owner earnings) expected to occur over the life of the business, minus any reinvestment of earnings."
+      },
+      {
+        "title": "Warren Buffett",
+        "text": "Warren Edward Buffett ( ; born August 30, 1930) is an American business magnate, investor, and philanthropist."
+      }
+    ]
+  },
+  {
+    "qid": "5ae7eaf65542994a481bbe1d",
+    "difficulty": "hard",
+    "question": "When was the  former Indian cricketer who made his ODI debuts during the 2000 ICC KnockOut Trophy born?",
+    "gold_answer": "7 October 1978",
+    "context": [
+      {
+        "title": "2000 ICC KnockOut Trophy",
+        "text": "Zaheer Khan, Yuvraj Singh and Marlon Samuels made their ODI debuts during the competition."
+      },
+      {
+        "title": "Zaheer Khan",
+        "text": "Zaheer Khan (born 7 October 1978) is a former Indian cricketer who played all forms of the game for Indian national cricket team from 2000 till 2014."
+      }
+    ]
+  },
+  {
+    "qid": "5a8c4c625542995e66a475a1",
+    "difficulty": "hard",
+    "question": "Which airplane was this Major test-flying after whom the base, that 514th Flight Test Squadron is stated at, is named?",
+    "gold_answer": "B-17 Flying Fortress bomber",
+    "context": [
+      {
+        "title": "514th Flight Test Squadron",
+        "text": "It is assigned to the Ogden Air Logistics Center (OO-ALC), Air Force Materiel Command, stationed at Hill Air Force Base, Utah."
+      },
+      {
+        "title": "Hill Air Force Base",
+        "text": "The base was named in honor of Major Ployer Peter Hill of the U.S. Army Air Corps, who died test-flying a prototype of the B-17 Flying Fortress bomber."
+      }
+    ]
+  }
+]

@@ -20,8 +20,18 @@ python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 
-# Chạy benchmark (với mock data)
-python run_benchmark.py --dataset data/hotpot_mini.json --out-dir outputs/sample_run
+# Chạy benchmark với mock mode (không tốn API)
+python run_benchmark.py --mode mock --dataset data/hotpot_mini.json --out-dir outputs/sample_run
+
+# Chạy benchmark với OpenAI API
+# Yêu cầu: export/set OPENAI_API_KEY trước khi chạy
+python run_benchmark.py --mode openai --model gpt-4o-mini --dataset data/hotpot_mini.json --out-dir outputs/openai_run
+
+# Chuẩn bị HotpotQA 100+ mẫu (mặc định 110 mẫu) từ Hugging Face
+python scripts/prepare_hotpotqa_subset.py --count 110 --out data/hotpot_110.json
+
+# Chạy benchmark full với dataset 100+ mẫu
+python run_benchmark.py --mode openai --model gpt-4o-mini --dataset data/hotpot_110.json --out-dir outputs/openai_full_110
 
 # Chạy chấm điểm tự động
 python autograde.py --report-path outputs/sample_run/report.json
